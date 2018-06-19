@@ -1,6 +1,6 @@
 # Insight UI
 
-A AXE blockchain explorer web application service for [AXEcore Node](https://github.com/axerunners/axecore-node) using [Insight API](https://github.com/axerunners/insight-api).
+An AXE blockchain explorer web application service for [AXEcore Node](https://github.com/axerunners/axecore-node) using [Insight API](https://github.com/axerunners/insight-api).
 
 ## Quick Start
 
