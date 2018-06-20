@@ -11,11 +11,11 @@ Please see the guide at [https://bitcore.io/guides/full-node](https://bitcore.io
 To manually install all of the necessary components, you can run these commands:
 
 ```bash
-npm install -g axecore-node
+npm install -g @axerunners/axecore-node
 axecore-node create mynode
 cd mynode
-axecore-node install @axecore/insight-api
-axecore-node install @axecore/insight-ui
+axecore-node install @axerunners/insight-api
+axecore-node install @axerunners/insight-ui
 axecore-node start
 ```
 
