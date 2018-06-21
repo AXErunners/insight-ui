@@ -1,5 +1,7 @@
 # Insight UI
 
+[![NPM Version](https://img.shields.io/npm/v/@axerunners/insight-ui.svg?branch=master)](https://npmjs.org/package/@axerunners/insight-ui)
+
 An AXE blockchain explorer web application service for [AXEcore Node](https://github.com/axerunners/axecore-node) using [Insight API](https://github.com/axerunners/insight-api).
 
 ## Quick Start
