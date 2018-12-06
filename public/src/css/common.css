@@ -116,7 +116,7 @@ margin-left: 0;
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {background-color: #373D42;}
 
 .navbar-default {
-  background-color: #012060;
+  background-color: #0453ef;
   margin: 0;
   border: 0;
 }
@@ -167,7 +167,7 @@ margin-left: 0;
 }
 
 .navbar-form .form-control {
-  background-color: #012060;
+  background-color: #0453ef;
   border-radius: 3px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -270,7 +270,7 @@ margin-left: 0;
 }
 
 .block-id {
-  background-color: #012060;
+  background-color: #0453ef;
   border: 3px solid #FFFFFF;
   -moz-border-radius: 10px;
   -webkit-border-radius: 10px;
@@ -412,8 +412,8 @@ margin-left: 0;
   color: #fffffe;
 }
 
-#footer a.insight small { 
-  font-size: 11px; 
+#footer a.insight small {
+  font-size: 11px;
   margin-right: 2px;
 }
 
