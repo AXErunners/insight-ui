@@ -1,7 +1,7 @@
 {
   "name": "@axerunners/insight-ui",
   "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the AXE network and build your own services with it.",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "repository": "git://github.com/axerunners/insight-ui.git",
   "contributors": [
     {
@@ -50,14 +50,14 @@
   "devDependencies": {
     "bower": "~1.2.8",
     "grunt": "~0.4.2",
+    "grunt-angular-gettext": "^0.2.15",
     "grunt-cli": "~0.1.11",
-    "grunt-contrib-jshint": "~0.8.0",
     "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-jshint": "~0.8.0",
     "grunt-contrib-uglify": "~0.3.2",
     "grunt-contrib-watch": "*",
-    "grunt-macreload": "*",
     "grunt-css": "~0.5.4",
-    "grunt-markdown": "~0.5.0",
-    "grunt-angular-gettext": "^0.2.15"
+    "grunt-macreload": "*",
+    "grunt-markdown": "^0.7.0"
   }
 }
