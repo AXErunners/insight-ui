@@ -22,7 +22,7 @@ msgstr "404 ページがみつかりません (´・ω・`)"
 #: public/views/index.html
 msgid ""
 "<strong>insight</strong>  is an <a href=\"http://live.insight.is/\" target="
-"\"_blank\">open-source AXE blockchain explorer</a> with complete REST "
+"\"_blank\">open-source Axe blockchain explorer</a> with complete REST "
 "and websocket APIs that can be used for writing web wallets and other apps  "
 "that need more advanced blockchain queries than provided by axed RPC.  "
 "Check out the <a href=\"https://github.com/axerunners/insight-ui-axe\" target=\"_blank"
@@ -74,12 +74,12 @@ msgid "Best Block"
 msgstr "最良ブロック"
 
 #: public/views/messages_verify.html
-msgid "AXE comes with a way of signing arbitrary messages."
-msgstr "AXEには任意のメッセージを署名する昨日が備わっています。"
+msgid "Axe comes with a way of signing arbitrary messages."
+msgstr "Axeには任意のメッセージを署名する昨日が備わっています。"
 
 #: public/views/status.html
-msgid "AXE node information"
-msgstr "AXEノード情報"
+msgid "Axe node information"
+msgstr "Axeノード情報"
 
 #: public/views/block.html
 msgid "Block"
@@ -426,17 +426,17 @@ msgstr "このアドレスに対するトランザクションはありません
 #: public/views/transaction_sendraw.html
 msgid ""
 "This form can be used to broadcast a raw transaction in hex format over\n"
-"        the AXE network."
+"        the Axe network."
 msgstr ""
-"このフォームでは、16進数フォーマットの生のトランザクションをAXEネットワー"
+"このフォームでは、16進数フォーマットの生のトランザクションをAxeネットワー"
 "ク上に配信することができます。"
 
 #: public/views/messages_verify.html
 msgid ""
 "This form can be used to verify that a message comes from\n"
-"        a specific AXE address."
+"        a specific Axe address."
 msgstr ""
-"このフォームでは、メッセージが特定のAXEアドレスから来たかどうかを検証する"
+"このフォームでは、メッセージが特定のAxeアドレスから来たかどうかを検証する"
 "ことができます。"
 
 #: public/views/status.html
@@ -453,7 +453,7 @@ msgstr "今日"
 
 #: public/views/status.html
 msgid "Total Amount"
-msgstr "AXE総量"
+msgstr "Axe総量"
 
 #: public/views/address.html
 msgid "Total Received"

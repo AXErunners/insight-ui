@@ -23,16 +23,16 @@ msgstr "404 Página no encontrada :("
 #: public/views/index.html
 msgid ""
 "<strong>insight</strong>  is an <a href=\"http://live.insight.is/\" target="
-"\"_blank\">open-source AXE blockchain explorer</a> with complete REST "
+"\"_blank\">open-source Axe blockchain explorer</a> with complete REST "
 "and websocket APIs that can be used for writing web wallets and other apps  "
 "that need more advanced blockchain queries than provided by axed RPC.  "
 "Check out the <a href=\"https://github.com/axerunners/insight-ui-axe\" target=\"_blank"
 "\">source code</a>."
 msgstr ""
 "<strong>insight</strong>  es un <a href=\"http://live.insight.is/\" target="
-"\"_blank\">explorador de bloques de AXE open-source</a> con un completo "
+"\"_blank\">explorador de bloques de Axe open-source</a> con un completo "
 "conjunto de REST y APIs de websockets que pueden ser usadas para escribir "
-"monederos de AXEs y otras aplicaciones que requieran consultar un "
+"monederos de Axes y otras aplicaciones que requieran consultar un "
 "explorador de bloques.  Obtén el código en <a href=\"http://github.com/"
 "axerunners/insight\" target=\"_blank\">el repositorio abierto de Github</a>."
 
@@ -68,8 +68,8 @@ msgid "Best Block"
 msgstr "Mejor Bloque"
 
 #: public/views/status.html
-msgid "AXE node information"
-msgstr "Información del nodo AXE"
+msgid "Axe node information"
+msgstr "Información del nodo Axe"
 
 #: public/views/block.html
 msgid "Block"
