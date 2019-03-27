@@ -26,7 +26,7 @@ fi
 # Publish the npm module
 npm publish
 
-IMAGE_NAME="axepay/insight"
+IMAGE_NAME="axerunners/insight"
 
 MAJOR_VERSION="$( cut -d '.' -f 1 <<< "$VERSION" )"
 
